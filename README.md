@@ -1,5 +1,7 @@
 # theGame
 simple theGame for study
 
-## main.py
+## Main.py
+- start app
 ## Hero.py
+- information about main character
