@@ -16,7 +16,6 @@ class Hero:
 
     @staticmethod
     def move_forward():
-
         return "You move forward"
 
     @staticmethod
